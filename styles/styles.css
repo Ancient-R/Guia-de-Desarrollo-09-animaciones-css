@@ -3,6 +3,10 @@ body{
     margin: 0;
 }
 
+.title{
+    text-align: center;
+}
+
 .article{
     padding: 2rem;
 }
